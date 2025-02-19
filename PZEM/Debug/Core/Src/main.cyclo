@@ -1,0 +1,8 @@
+../Core/Src/main.c:95:12:calculate_crc	4
+../Core/Src/main.c:68:5:main	1
+../Core/Src/main.c:116:8:check_crc	1
+../Core/Src/main.c:124:12:read_pzem_register	2
+../Core/Src/main.c:177:6:SystemClock_Config	3
+../Core/Src/main.c:224:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:257:13:MX_GPIO_Init	1
+../Core/Src/main.c:277:6:Error_Handler	1

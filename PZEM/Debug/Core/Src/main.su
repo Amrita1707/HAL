@@ -1,0 +1,8 @@
+../Core/Src/main.c:95:12:calculate_crc	32	static
+../Core/Src/main.c:68:5:main	32	static
+../Core/Src/main.c:116:8:check_crc	32	static
+../Core/Src/main.c:124:12:read_pzem_register	48	static
+../Core/Src/main.c:177:6:SystemClock_Config	88	static
+../Core/Src/main.c:224:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:257:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:277:6:Error_Handler	4	static,ignoring_inline_asm
